@@ -4,7 +4,7 @@ import streamlit as st
 st.header("Panuwat Sittirat")
 st.balloons()
 st.title('การทดสอบเขียนเว็บด้วย Python')
-st.header('นาย ภานุวัฒน์ สิทธิรัตน์')
+st.header('นาย ภานุวัฒน์ สิทธิรัตน์ 644230052 ')
 st.subheader('สาขาวิชาเทคโนโลยีสารสนเทศ')
 st.markdown("----")
 

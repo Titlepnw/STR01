@@ -78,10 +78,10 @@ if st.button("ทำนายผล"):
       st.image("./pic/skr.jpg")
       st.header("Setosa")
    elif out[0]=="Versicolor":
-      st.image("./pic/bd.jpg")
+      st.image("./pic/tl.jpg")
       st.header("Versicolor")
    else:
-      st.image("./pic/tl.jpg")  
+      st.image("./pic/bd.jpg")  
       st.header("Verginiga")
    st.button("ไม่ทำนายผล")
 else :
